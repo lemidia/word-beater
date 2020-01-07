@@ -14,6 +14,7 @@ Try it - [WordBeater Game](https://bradtraversy.github.io/wordbeater)
 
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)
+lemidia - modifier
 
 ### Version
 
